@@ -1,5 +1,9 @@
 First element matching a boolean condition:
 
+```sh
+npm i choose-matching
+```
+
 ```ts
 const Component = () => (
   <section>
