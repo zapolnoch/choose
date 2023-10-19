@@ -1,5 +1,5 @@
 {
-  "name": "choose",
+  "name": "choose-matching",
   "version": "1.0.0",
   "description": "First element matching a boolean condition",
   "main": "index.js",
