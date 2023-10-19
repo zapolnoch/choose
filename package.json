@@ -1,0 +1,21 @@
+{
+  "name": "choose",
+  "version": "1.0.0",
+  "description": "First element matching a boolean condition",
+  "main": "index.ts",
+  "keywords": [
+    "pattern",
+    "matching",
+    "switch"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zapolnoch/choose.git"
+  },
+  "peerDependencies": {
+    "@types/react": "*",
+    "typescript": "*"
+  }
+}
