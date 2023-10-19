@@ -2,7 +2,7 @@
   "name": "choose",
   "version": "1.0.0",
   "description": "First element matching a boolean condition",
-  "main": "index.ts",
+  "main": "index.js",
   "keywords": [
     "pattern",
     "matching",

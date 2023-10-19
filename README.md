@@ -50,6 +50,6 @@ match (test) {
 }
 ```
 
-## Modern way
+### Modern way
 
 Use languages in which `if` and `switch` are expressions, e.g. [Civet](https://github.com/DanielXMoore/Civet).
